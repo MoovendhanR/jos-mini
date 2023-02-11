@@ -1,11 +1,9 @@
-import './App.css';
-import AllRoutes from './components/AllRoutes';
-// import DetailedView from './components/DetailedView';
+import Mainpage from "./Components/Mainpage";
 
 function App() {
   return (
       <>
-     <AllRoutes/>
+      <Mainpage/>
       </>
   );
 }
